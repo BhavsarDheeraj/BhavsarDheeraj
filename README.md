@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Bhavsar i.e. @BhavsarDheeraj
-- 👀 I’m interested in Swift and iOS.
-- 🌱 I’m currently learning Blockchain, Vapor and SwiftUI.
+- 👀 I’m interested in Blockchain and Mobile Application Development.
+- 🌱 I’m currently learning Blockchain, NestJS and SwiftUI.
 - 💞️ I’m looking to collaborate on Web3 and Mobile Application Development.
 - 📫 Drop me a mail on dheerajbhavsar@icloud.com
 
