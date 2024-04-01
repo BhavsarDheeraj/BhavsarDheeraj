@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Dheeraj Bhavsar i.e. @BhavsarDheeraj
-- 👀 I’m interested in Blockchain and Mobile Application Development.
-- 🌱 I’m currently learning Blockchain, NestJS and SwiftUI.
-- 💞️ I’m looking to collaborate on Web3 and Mobile Application Development.
-- 📫 Drop me a mail on dheerajbhavsar@icloud.com
+- 👋 Hi, I’m Dheeraj Bhavsar
+- 👀 I’m interested in Software Development...
+- 💞️ I’m looking to collaborate on Full Stack Mobile App Development and Generative AI Apps.
+- 📫 Drop me a mail on dheerajbhavsar940@gmail.com
 
 <!---
 BhavsarDheeraj/BhavsarDheeraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
