@@ -1,46 +1,18 @@
-# 👋 Hi there, I'm Dheeraj Bhavsar
 
-💻 **Full-Stack Developer** | 🚀 **Innovator** | 🌐 **Tech Enthusiast**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavsardheeraj/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7688783/dheeraj-bhavsar) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bhavsardheeraj/)](https://www.linkedin.com/in/bhavsardheeraj/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&labelColor=333&link=https://github.com/BhavsarDheeraj)](https://github.com/BhavsarDheeraj)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&labelColor=FE7A16&link=https://stackoverflow.com/users/7688783/dheeraj-bhavsar)](https://stackoverflow.com/users/7688783/dheeraj-bhavsar)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BhavsarDheeraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhavsarDheeraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarDheeraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 📝 Summary
-
-Experienced full-stack developer with nearly 4 years of hands-on experience in crafting high-performance web and mobile applications. Proficient in leading cross-functional teams and skilled in JavaScript, TypeScript, Python, Dart, and cloud platforms. Committed to driving innovation and delivering impactful solutions.
-
----
-
-### 🛠️ Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, Dart, Swift, SQL  
-**Technologies/Frameworks:** Node.js, NestJS, Express.js, FastAPI, React, NextJS, Airflow, WebRTC, Docker, Kubernetes, RabbitMQ, Flutter, iOS  
-**Databases:** MongoDB, Redis, Firebase, MySQL, Vector Databases  
-**ML Frameworks and Tools:** Langchain, OpenAI, LlamaIndex, Pandas  
-**Cloud Services:** AWS, GCP, Firebase  
-**Others:** REST APIs, Microservices, DevOps, Scrum and Agile Methodologies  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BhavsarDheeraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BhavsarDheeraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💡 Personal Projects
-
-- **App Review Bot - Slack App:** Fetches the latest App Store and Google Play Store reviews and posts them to Slack channels.
-- **Umeeed - Community Platform for Blood Donations:** Facilitates connections between donors and receivers.
-- **OpenUp - Talk to Strangers & Learn Spoken English:** Helps English learners improve speaking and listening skills.
-
----
-
-### ✍️ Personal Blogs
-
-- [Fall in love with Recursion](https://www.linkedin.com/pulse/fall-love-recursion-dheeraj-bhavsar/)
-- [Navigation and Networking in SwiftUI](https://www.linkedin.com/pulse/navigation-networking-swiftui-dheeraj-bhavsar/)
-- [Generic Codables - Swift](https://www.linkedin.com/pulse/generic-codables-swift-dheeraj-bhavsar/)
-
----
-
-📫 **Contact:** [dheerajbhavsar940@gmail.com](mailto:dheerajbhavsar940@gmail.com) | 📞 **Phone:** +91 9408587404
-
-Let's build something amazing together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
